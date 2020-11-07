@@ -1,2 +1,3 @@
 # account-manager-api
-An manager for manage months accounts
+
+A manager application to manage monthly bills
