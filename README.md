@@ -1,2 +1,2 @@
 # account-manager-api
-API for manage accounts
+An manager for manage months accounts
