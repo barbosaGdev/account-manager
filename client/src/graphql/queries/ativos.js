@@ -1,10 +1,11 @@
 import gql from 'graphql-tag'
 
 export const GET_ATIVOS = gql`
-    query {
+    query listaAtivos {
         listaAtivos {
             nome
             valor
         }
     }
 `
+

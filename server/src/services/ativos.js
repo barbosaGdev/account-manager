@@ -1,7 +1,6 @@
 const {
     AtivoModel
 } = require('../models')
-const getDatabaseCollection = require('../models/_getDatabaseCollection')
 
 
 const createNewAtivo = async ({ nome, valor }) => {
